@@ -79,10 +79,10 @@ The vault opens up as a live graph in Obsidian. Below, I colored the graph by th
 | Color | Decision area |
 |---|---|
 | Red | Getting into YC |
-| Amber | Pricing and business model |
+| Gold | Pricing and business model |
 | Green | Fundraising and investors |
 | Pink | Talking to users |
-| Blue | Growth and distribution |
+| Cyan | Growth and distribution |
 | Purple | Team, hiring, and cofounders |
 | Grey | Author and series pages (the connective spine) |
 
