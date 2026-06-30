@@ -11,55 +11,55 @@
       "query": "\"get into yc\" OR \"apply to yc\" OR \"office hours\" OR \"yc interview\" OR application",
       "color": {
         "a": 1,
-        "rgb": 15026253
+        "rgb": 16723285
       }
     },
     {
       "query": "pricing OR price OR revenue OR monetization OR \"business model\" OR freemium",
       "color": {
         "a": 1,
-        "rgb": 16096779
+        "rgb": 16761856
       }
     },
     {
       "query": "fundraising OR fundraise OR seed OR \"series a\" OR \"term sheet\" OR investor OR valuation OR equity OR pitch",
       "color": {
         "a": 1,
-        "rgb": 3187820
+        "rgb": 58998
       }
     },
     {
       "query": "customer OR \"user interview\" OR \"user feedback\" OR \"the mom test\" OR \"talk to your users\"",
       "color": {
         "a": 1,
-        "rgb": 15285634
+        "rgb": 16727512
       }
     },
     {
       "query": "growth OR conversion OR acquisition OR distribution OR marketing OR funnel OR retention",
       "color": {
         "a": 1,
-        "rgb": 37375
+        "rgb": 1692671
       }
     },
     {
       "query": "hiring OR \"how to hire\" OR recruiting OR co-founder OR cofounder OR \"first employee\" OR \"company culture\"",
       "color": {
         "a": 1,
-        "rgb": 9326278
+        "rgb": 11627519
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 3.05786458333333,
+  "lineSizeMultiplier": 0.45,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.1594470730066516,
+  "centerStrength": 0,
+  "repelStrength": 17.8454861111111,
+  "linkStrength": 0.296961805555556,
+  "linkDistance": 30,
+  "scale": 0.06107447110130731,
   "close": true
 }
