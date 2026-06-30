@@ -1,6 +1,6 @@
 # YC Knowledge Base
 
-This is a personal second brain I built from the entire [Y Combinator Startup Library](https://www.ycombinator.com/library). Basically, I took every talk, podcast, and essay in the library and turned each one into a single linked note. So instead of decades of startup advice being scattered across hundreds of videos and articles out there, it all lives in one place: one searchable, connected graph.
+This is a personal second brain I built from the entire [Y Combinator Startup Library](https://www.ycombinator.com/library). I took every talk, podcast, and essay in the library and turned each one into a single linked note. So instead of decades of startup advice being scattered across hundreds of videos and articles out there, it all lives in one place: one searchable, connected graph.
 
 This repo is the structure of that brain. It shows how it was built and what it gets used for. The full transcripts aren't included (see [A note on the content](#a-note-on-the-content)), but every note, link, author, and series is here, so you can see exactly how the system is wired together.
 
@@ -21,7 +21,7 @@ This repo is the structure of that brain. It shows how it was built and what it 
 
 ## Two ways to read this repo
 
-**If you're a non-technical builder:** start with [How I use it](docs/how-i-use-it.md). That's really the whole point of all of this. When you're building something and you hit a real decision, you don't want to vaguely remember that some YC partner once said something useful. You want to find it in ten seconds, read it, and see who said it and where. And that's exactly what this brain does. You don't need to know how I built it to get the idea.
+**If you're a non-technical builder:** start with [How I use it](docs/how-i-use-it.md). That's really the whole point of all of this. When you're building something and you hit a real decision, you don't want to vaguely remember that some YC partner once said something useful. You want to find it in ten seconds, read it, and see who said it and where. And that's exactly what this brain does.
 
 **If you're a technical builder:** start with [How it was built](docs/how-it-was-built.md) and [Anatomy of a note](docs/anatomy-of-a-note.md). The interesting part is the data model, and it's pretty simple: one Markdown file per entry, structured frontmatter on every field, wikilinks that connect each entry to its author and its series, and generated index maps that turn the whole thing into a graph you can actually walk. No database, no app, just files.
 
