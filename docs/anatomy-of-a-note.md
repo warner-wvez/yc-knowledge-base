@@ -1,14 +1,14 @@
 # Anatomy of a note
 
-Every note in this vault follows the same shape. That sameness is what makes the whole library queryable. This page breaks down each of the four note types so the schema is fully visible.
+Every note in this vault follows the exact same shape, and that sameness is the whole reason the library is queryable at all. This page breaks down each of the four note types, so the schema is fully visible.
 
-There are four types: **video**, **article**, **person**, and **series**. The `type` field in the frontmatter says which one a note is.
+There are four types in total: **video**, **article**, **person**, and **series**. The `type` field in the frontmatter is what tells you which one a given note is.
 
 ---
 
 ## 1. Video note
 
-A talk, podcast episode, or course session. This is the most detailed type.
+A talk, podcast episode, or course session. This is the most detailed type of the four.
 
 ```markdown
 ---
@@ -69,7 +69,7 @@ The original description, including chapter timestamps.
 
 ## 2. Article note
 
-An essay or written guide. Same idea as a video, fewer media fields.
+An essay or a written guide. It is the same idea as a video note, simply with fewer media fields.
 
 ```markdown
 ---
@@ -102,7 +102,7 @@ A short description of what the guide covers.
 
 ## 3. Person note
 
-One page per author or speaker. It is an index: it lists everything that person has in the library, each as a wikilink. These pages are pure structure, so they are kept in full.
+One page per author or speaker. It is essentially an index: it lists everything that person has in the library, with each entry written as a wikilink. These pages are pure structure, so they are kept in full.
 
 ```markdown
 ---
@@ -124,13 +124,13 @@ YC Library entries: **25**
 - ...
 ```
 
-Because the author appears as a wikilink on every one of their entries, Obsidian's backlinks automatically keep this page honest. The person note is the hub; the entries are the spokes.
+Because the author appears as a wikilink on every single one of their entries, Obsidian's backlinks keep this page honest on their own. The person note is the hub, and the entries are the spokes.
 
 ---
 
 ## 4. Series note
 
-One page per series or show (Lightcone Podcast, Dalton & Michael, Design Review, and so on). Like a person note, it is a pure index of every entry in that series.
+One page per series or show, whether that is the Lightcone Podcast, Dalton & Michael, Design Review, or any of the others. Like a person note, it is simply a pure index of every entry in that series.
 
 ```markdown
 ---
@@ -166,4 +166,4 @@ graph TD
   ARTICLE -->|"links back to"| SERIES
 ```
 
-The video and article notes are the leaves. The person and series notes are the hubs. The links run both ways because every entry names its author and series as wikilinks, and Obsidian turns those into backlinks automatically. That two way connection is the whole graph.
+The video and article notes are the leaves. The person and series notes are the hubs. And the links run both ways, simply because every entry names its own author and series as wikilinks, and Obsidian turns those into backlinks automatically. That two way connection is the whole graph.
