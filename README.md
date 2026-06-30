@@ -69,10 +69,22 @@ Full detail in [How it was built](docs/how-it-was-built.md).
 
 ## See it in action
 
-The vault opens as a live graph in Obsidian. Screenshots go in [`docs/images/`](docs/images/) and will render below once added.
+The vault opens as a live graph in Obsidian. Below, the graph is colored by the six decision areas the brain gets used for. The grey nodes are the author and series pages: the connective spine. The colored nodes are the talks and essays that speak to a given decision, so when a real choice comes up, the relevant sources light up together.
 
 <!-- Save your screenshot as docs/images/graph-view.png and it appears here automatically. -->
-![Obsidian graph view of the knowledge base](docs/images/graph-view.png)
+![Obsidian graph view of the knowledge base, colored by decision topic](docs/images/graph-view.png)
+
+**Reading the colors:**
+
+| Color | Decision area |
+|---|---|
+| Red | Getting into YC |
+| Amber | Pricing and business model |
+| Green | Fundraising and investors |
+| Pink | Talking to users |
+| Blue | Growth and distribution |
+| Purple | Team, hiring, and cofounders |
+| Grey | Author and series pages (the connective spine) |
 
 ---
 
