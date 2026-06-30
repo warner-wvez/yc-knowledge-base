@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Obsidian personal state (layout, bookmarks, cache)
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/bookmarks.json
+.obsidian/cache
+.trash/
+
+# Editor noise
+*.swp
+*~

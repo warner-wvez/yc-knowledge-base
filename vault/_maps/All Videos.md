@@ -1,0 +1,375 @@
+---
+title: All Videos
+type: moc
+tags:
+  - yc-library
+  - moc
+---
+
+# All Videos
+
+- [[10 People + AI = Billion Dollar Company-|10 People + AI = Billion Dollar Company?]] 📝
+- [[2024’s Biggest Startup Trends]] 📝
+- [[33 AI Startup Founders Debate the Creation of Artificial General Intelligence]] 📝
+- [[Advice for Hard-Tech and Biotech founders]] 📝
+- [[Agents For Non-Technical Users]] 📝
+- [[AI Apps Are Broken — Here's How To Fix Them]] 📝
+- [[AI Revolution- Why This Is The Best Time To Start A Startup|AI Revolution: Why This Is The Best Time To Start A Startup]] 📝
+- [[Alexandr Wang- Building Scale AI, Transforming Work with Agents & Competing With China|Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China]] 📝
+- [[All about pivoting]] 📝
+- [[Analytics for startups]] 📝
+- [[Andrej Karpathy- Software Is Changing (Again)|Andrej Karpathy: Software Is Changing (Again)]] 📝
+- [[Andrew Ng- Building Faster with AI|Andrew Ng: Building Faster with AI]] 📝
+- [[Anthropic Co-founder- Building Claude Code, Lessons From GPT-3 & LLM System Design|Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design]] 📝
+- [[Anthropic’s Claude Computer Use Is A Game Changer]] 📝
+- [[Apple Vision Pro- Startup Platform Of The Future- -[Lightcone Podcast Ep. 2-]|Apple Vision Pro: Startup Platform Of The Future? \[Lightcone Podcast Ep. 2\]]] 📝
+- [[Aravind Srinivas- The Race to Build the AI Browser of the Future|Aravind Srinivas: The Race to Build the AI Browser of the Future]] 📝
+- [[Are We In An AI Hype Cycle-|Are We In An AI Hype Cycle?]] 📝
+- [[Backstory- Surbhi Sarna|Backstory: Surbhi Sarna]] 📝
+- [[Backstory- Tom Blomfield|Backstory: Tom Blomfield]] 📝
+- [[Better AI Models, Better Startups -[Lightcone Podcast Ep. 7-]|Better AI Models, Better Startups \[Lightcone Podcast Ep. 7\]]] 📝
+- [[Biggest mistakes first-time founders make]] 📝
+- [[Brand Design Tips From Linear Founder Karri Saarinen]] 📝
+- [[Building A $2 Billion SaaS Company- Lessons From A Two Time Founder|Building A $2 Billion SaaS Company: Lessons From A Two Time Founder]] 📝
+- [[Building a better mobile app]] 📝
+- [[Building a startup is about solving a problem]] 📝
+- [[Building A Supersonic Plane Company From The Ground Up]] 📝
+- [[Building AI Models Faster And Cheaper Than You Think -[Lightcone Podcast Ep. 4-]|Building AI Models Faster And Cheaper Than You Think \[Lightcone Podcast Ep. 4\]]] 📝
+- [[Building an engineering team]] 📝
+- [[Building Confidence In Yourself and Your Ideas]] 📝
+- [[Building culture]] 📝
+- [[Building product]] 📝
+- [[Building The World's Best Image Diffusion Model]] 📝
+- [[Chelsea Finn- Building Robots That Can Do Anything|Chelsea Finn: Building Robots That Can Do Anything]] 📝
+- [[Co-Founder Equity Mistakes to Avoid]] 📝
+- [[Common Mistakes With Vibe Coded Websites]] 📝
+- [[Consume information that encourages you to do more]] 📝
+- [[Consumer is back, What’s getting funded now, The vibes immaculate -[Lightcone Podcast Ep. 6-]|Consumer is back, What’s getting funded now, The vibes immaculate \[Lightcone Podcast Ep. 6\]]] 📝
+- [[Consumer Startup Metrics]] 📝
+- [[Creating good company culture (and sticking to it)]] 📝
+- [[Critiquing AI startup websites with YC President Garry Tan]] 📝
+- [[Critiquing startup websites with Instacart's first designer, Zain Ali]] 📝
+- [[Critiquing startup websites with Webflow CEO Vlad Magdalin]] 📝
+- [[Cursor CEO- Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters|Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters]] 📝
+- [[Cursor Head of Design Reviews Startup Websites]] 📝
+- [[Customer Obsession Made Gusto A $9.6 Billion Company]] 📝
+- [[Dalton & Michael- Co-founder mistakes that kill companies and how to avoid them|Dalton & Michael: Co-founder mistakes that kill companies and how to avoid them]] 📝
+- [[Dalton & Michael- Does Your Startup Need To Be In San Francisco-|Dalton & Michael: Does Your Startup Need To Be In San Francisco?]] 📝
+- [[Dalton & Michael- Elon Musk and the Midwit meme|Dalton & Michael: Elon Musk and the Midwit meme]] 📝
+- [[Dalton & Michael- How future billionaires get sh-t done|Dalton & Michael: How future billionaires get sh\*t done]] 📝
+- [[Dalton & Michael- How generosity built tech giants|Dalton & Michael: How generosity built tech giants]] 📝
+- [[Dalton & Michael- How to deal with setbacks|Dalton & Michael: How to deal with setbacks]] 📝
+- [[Dalton & Michael- How to earn customers for life|Dalton & Michael: How to earn customers for life]] 📝
+- [[Dalton & Michael- Most important lifestyle habits of successful founders|Dalton & Michael: Most important lifestyle habits of successful founders]] 📝
+- [[Dalton & Michael- Save your startup during an economic downturn|Dalton & Michael: Save your startup during an economic downturn]] 📝
+- [[Dalton & Michael- Secrets You Can Learn From Your Customers|Dalton & Michael: Secrets You Can Learn From Your Customers]] 📝
+- [[Dalton & Michael- Setting smarter goals|Dalton & Michael: Setting smarter goals]] 📝
+- [[Dalton & Michael- Should you follow your passion-|Dalton & Michael: Should you follow your passion?]] 📝
+- [[Dalton & Michael- Silicon Valley's cargo culting problem|Dalton & Michael: Silicon Valley's cargo culting problem]] 📝
+- [[Dalton & Michael- Simple products that became big companies|Dalton & Michael: Simple products that became big companies]] 📝
+- [[Dalton & Michael- Successful founders are OK with rejection|Dalton & Michael: Successful founders are OK with rejection]] 📝
+- [[Dalton & Michael- The cult of conformity in Silicon Valley|Dalton & Michael: The cult of conformity in Silicon Valley]] 📝
+- [[Dalton & Michael- The hard conversations founders don't want to have|Dalton & Michael: The hard conversations founders don't want to have]] 📝
+- [[Dalton & Michael- The student's guide to becoming a successful startup founder|Dalton & Michael: The student's guide to becoming a successful startup founder]] 📝
+- [[Dalton & Michael- The truth about Y Combinator|Dalton & Michael: The truth about Y Combinator]] 📝
+- [[Dalton & Michael- The two mindsets that can kill your startup|Dalton & Michael: The two mindsets that can kill your startup]] 📝
+- [[Dalton & Michael- Things that don't scale, the software edition|Dalton & Michael: Things that don't scale, the software edition]] 📝
+- [[Dalton & Michael- Understanding investor terms and incentives|Dalton & Michael: Understanding investor terms and incentives]] 📝
+- [[Dalton & Michael- What basic game theory teaches us about startups|Dalton & Michael: What basic game theory teaches us about startups]] 📝
+- [[Dalton & Michael- What does it really mean to do things that don't scale-|Dalton & Michael: What does it really mean to do things that don't scale?]] 📝
+- [[Dalton & Michael- Where do great startup ideas come from-|Dalton & Michael: Where do great startup ideas come from?]] 📝
+- [[Dalton & Michael- Why Investors (Secretly) Love Y Combinator|Dalton & Michael: Why Investors (Secretly) Love Y Combinator]] 📝
+- [[Dalton & Michael- Why investors can’t fix your company|Dalton & Michael: Why investors can’t fix your company]] 📝
+- [[Dalton & Michael- Why you should leave your FAANG job|Dalton & Michael: Why you should leave your FAANG job]] 📝
+- [[Dalton & Michael- Why You Shouldn't Copy Your Tech Idols|Dalton & Michael: Why You Shouldn't Copy Your Tech Idols]] 📝
+- [[Dalton & Michael- Will OpenAI kill all startups-|Dalton & Michael: Will OpenAI kill all startups?]] 📝
+- [[Dalton & Michael- Y Combinator is back in person|Dalton & Michael: Y Combinator is back in person]] 📝
+- [[Dalton & Michael- YC founders made these fundraising mistakes|Dalton & Michael: YC founders made these fundraising mistakes]] 📝
+- [[Day in the Life of Y Combinator President & CEO Garry Tan during the first week of the batch]] 📝
+- [[Design Experts Critique AI Interfaces]] 📝
+- [[Design for startups (part 1)]] 📝
+- [[Design for startups (part 2)]] 📝
+- [[Design Review - YC Library]] 📝
+- [[Diane Greene's advice for founders]] 📝
+- [[Different startup stages and what they mean for you]] 📝
+- [[Do technical founders need a business co-founder-|Do technical founders need a business co-founder?]] 📝
+- [[Does YC fund solo founders-|Does YC fund solo founders?]]
+- [[Does Your Startup Website Pass The First Impression Test-|Does Your Startup Website Pass The First Impression Test?]] 📝
+- [[Does your tech startup really need a technical co-founder- Yes|Does your tech startup really need a technical co-founder? Yes.]] 📝
+- [[Early Stage Advice - YC Library]] 📝
+- [[Elon Musk on how to build the future]] 📝
+- [[Elon Musk- Digital Superintelligence, Multiplanetary Life, How to Be Useful|Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful]] 📝
+- [[Embark Trucks' (W16) road to IPO]] 📝
+- [[Enterprise Sales for Founders]] 📝
+- [[Every AI Founder Should Be Asking These Questions]] 📝
+- [[Fei-Fei Li- Spatial Intelligence is the Next Frontier in AI|Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI]] 📝
+- [[Figma CEO Dylan Field- How AI Will Transform Design|Figma CEO Dylan Field: How AI Will Transform Design]] 📝
+- [[Fintech 3.0- Now Is The Best Time To Build In Crypto|Fintech 3.0: Now Is The Best Time To Build In Crypto]] 📝
+- [[Five DevTool Startups Get Their Websites Reviewed]] 📝
+- [[Founder FAQ - YC Library]] 📝
+- [[Founder FAQ- 40 AI startup founders on the current state of AI tech|Founder FAQ: 40 AI startup founders on the current state of AI tech]] 📝
+- [[Founder FAQ- How did you get your first customer-|Founder FAQ: How did you get your first customer?]] 📝
+- [[Founder FAQ- How did you meet your co-founder-|Founder FAQ: How did you meet your co-founder?]] 📝
+- [[François Chollet- ARC-AGI-3, Beyond Deep Learning & A New Approach To ML|François Chollet: ARC-AGI-3, Beyond Deep Learning & A New Approach To ML]] 📝
+- [[François Chollet- The ARC Prize & How We Get to AGI|François Chollet: The ARC Prize & How We Get to AGI]] 📝
+- [[From Pivot Hell To $1.4 Billion Unicorn]] 📝
+- [[From Underdog to Undefeated- The Edrizio De La Cruz founder story|From Underdog to Undefeated: The Edrizio De La Cruz founder story]] 📝
+- [[Fundraising Fundamentals (SUS 2018)]] 📝
+- [[Fusion Energy Is Tech's Next Big Unlock]] 📝
+- [[Garry Tan speaks at Stanford's Entrepreneurial Thought Leaders (ETL) lecture series]] 📝
+- [[Garry Tan's tips for applying to YC]] 📝
+- [[Garry's Channel- 3 steps for billion dollar startups (How Airbnb & DoorDash succeeded)|Garry's Channel: 3 steps for billion dollar startups (How Airbnb & DoorDash succeeded)]] 📝
+- [[Garry's Channel- 6 Skills for Successful Startup Founders|Garry's Channel: 6 Skills for Successful Startup Founders]] 📝
+- [[Garry's Channel- An interview with Kai Stinchcombe, founder of True Link Financial|Garry's Channel: An interview with Kai Stinchcombe, founder of True Link Financial]] 📝
+- [[Garry's Channel- Billion dollar startup ideas|Garry's Channel: Billion dollar startup ideas]] 📝
+- [[Garry's Channel- Billion dollar startups are better, faster, or cheaper|Garry's Channel: Billion dollar startups are better, faster, or cheaper]] 📝
+- [[Garry's Channel- Coinbase CEO Brian Armstrong on cryptocurrency and the future of decentralization|Garry's Channel: Coinbase CEO Brian Armstrong on cryptocurrency and the future of decentralization]] 📝
+- [[Garry's Channel- Figma's $20B, 10 year overnight success|Garry's Channel: Figma's $20B, 10 year overnight success]] 📝
+- [[Garry's Channel- Flexport CEO Ryan Petersen on scaling a startup from zero to $8B|Garry's Channel: Flexport CEO Ryan Petersen on scaling a startup from zero to $8B]] 📝
+- [[Garry's Channel- How I turned $300k into $2 billion|Garry's Channel: How I turned $300k into $2 billion]] 📝
+- [[Garry's Channel- How REAL movements start, then change the world|Garry's Channel: How REAL movements start, then change the world]] 📝
+- [[Garry's Channel- How To DESIGN EVERYTHING if you don't know ANYTHING|Garry's Channel: How To DESIGN EVERYTHING if you don't know ANYTHING]] 📝
+- [[Garry's Channel- LEARN, EARN or QUIT - My job-career advice|Garry's Channel: LEARN, EARN or QUIT \| My job/career advice]] 📝
+- [[Garry's Channel- My $200 million startup mistake|Garry's Channel: My $200 million startup mistake]] 📝
+- [[Garry's Channel- Should you be the CEO-|Garry's Channel: Should you be the CEO?]] 📝
+- [[Garry's Channel- Stop chasing money -- Chase wealth|Garry's Channel: Stop chasing money -- Chase wealth]] 📝
+- [[Garry's Channel- Why now- The key to million dollar startup ideas|Garry's Channel: Why now? The key to million dollar startup ideas]] 📝
+- [[Garry's Channel- YOU can beat Google the way Amazon does. Here’s how|Garry's Channel: YOU can beat Google the way Amazon does. Here’s how.]] 📝
+- [[Ginkgo Bioworks (S14) is going public today]] 📝
+- [[Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom]] 📝
+- [[GPT-4.5 = Big Model Energy]] 📝
+- [[GPT-OSS vs. Qwen vs. Deepseek- Comparing Open Source LLM Architectures|GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures]] 📝
+- [[Growth for startups]] 📝
+- [[How AI Coding Agents Will Change Your Job]] 📝
+- [[How AI Is Changing Enterprise]] 📝
+- [[How and why to start a startup]] 📝
+- [[How Athelas is revolutionizing healthcare]] 📝
+- [[How David Lieb Turned a Failing Startup Into Google Photos]] 📝
+- [[How Do Billion Dollar Startups Start-|How Do Billion Dollar Startups Start?]] 📝
+- [[How do you convince someone to join your startup-|How do you convince someone to join your startup?]] 📝
+- [[How do you create luck-|How do you create luck?]] 📝
+- [[How Much Equity Should I Give My First Employees-|How Much Equity Should I Give My First Employees?]] 📝
+- [[How Much Should You Spend After Fundraising-|How Much Should You Spend After Fundraising?]] 📝
+- [[How New Technology Creates New Businesses]] 📝
+- [[How not to fail]] 📝
+- [[How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years]] 📝
+- [[How Pachama uses tech to tackle climate change]] 📝
+- [[How pitching investors is different than pitching customers]] 📝
+- [[How psychedelics will change society for the better]] 📝
+- [[How Scaling Laws Will Determine AI's Future]] 📝
+- [[How startup fundraising works]] 📝
+- [[How Stripe Built Their New Website]] 📝
+- [[How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)]] 📝
+- [[How to apply and succeed at Y Combinator]] 📝
+- [[How to apply and succeed at YC]] 📝
+- [[How to build a product with Reddit's Steve Huffman and Twitch's Emmett Shear]] 📝
+- [[How to build a product with WhatsApp co-founder Jan Koum]] 📝
+- [[How to build an MVP]] 📝
+- [[How to build and manage teams]] 📝
+- [[How to build product as a small startup]] 📝
+- [[How To Build The AGI Future- Bob McGrew|How To Build The AGI Future: Bob McGrew]] 📝
+- [[How to Build the Future]] 📝
+- [[How To Build The Future- Aravind Srinivas|How To Build The Future: Aravind Srinivas]] 📝
+- [[How to Build the Future- Demis Hassabis|How to Build the Future: Demis Hassabis]] 📝
+- [[How To Build The Future- Max Hodak|How To Build The Future: Max Hodak]] 📝
+- [[How To Build The Future- Parker Conrad|How To Build The Future: Parker Conrad]] 📝
+- [[How To Build The Future- Sam Altman|How To Build The Future: Sam Altman]] 📝
+- [[How To Build The Future- Tony Xu|How To Build The Future: Tony Xu]] 📝
+- [[How to calculate burn rate, runway, and growth rate]] 📝
+- [[How to choose a metric and set your KPI]]
+- [[How to choose a startup to join]] 📝
+- [[How to cold email investors]] 📝
+- [[How To Convert Customers With Cold Emails]] 📝
+- [[How to convert more visitors into customers]] 📝
+- [[How To Find A Co-Founder]] 📝
+- [[How to find product-market fit]] 📝
+- [[How to find the right co-founder]] 📝
+- [[How To Get AI Startup Ideas]] 📝
+- [[How to get and test ideas]] 📝
+- [[How to Get Meetings With Investors and Raise Money]] 📝
+- [[How to get startup ideas]] 📝
+- [[How To Get The Most Out Of Coding Agents]] 📝
+- [[How To Get The Most Out Of Vibe Coding]] 📝
+- [[How to get your first customers]] 📝
+- [[How To Get Your First Users]] 📝
+- [[How To Improve Cohort Retention]] 📝
+- [[How to improve conversion rates]] 📝
+- [[How To Influence Decision Makers]] 📝
+- [[How to invent the future (part 1)]] 📝
+- [[How to invent the future (part 2)]] 📝
+- [[How to launch (again and again)]] 📝
+- [[How To Live In The Social Media Matrix]] 📝
+- [[How to measure your product]] 📝
+- [[How To Navigate Co-Founder Disputes]] 📝
+- [[How To NOT Get Screwed Over As A Software Engineer]] 📝
+- [[How to pick which startup to work at]] 📝
+- [[How to Pitch Your Startup]] 📝
+- [[How to plan an MVP]] 📝
+- [[How To Price For B2B]] 📝
+- [[How to prioritize features]] 📝
+- [[How To Recruit The Best Engineers And Sales Reps]] 📝
+- [[How to Spend Your 20s in the AI Era]] 📝
+- [[How to split equity among co-founders]] 📝
+- [[How To Start A Dev Tools Company]] 📝
+- [[How to Start a Startup- Before the startup|How to Start a Startup: Before the startup]] 📝
+- [[How to Start a Startup- Building company culture, Part I|How to Start a Startup: Building company culture, Part I]] 📝
+- [[How to Start a Startup- Building company culture, Part II|How to Start a Startup: Building company culture, Part II]] 📝
+- [[How to Start a Startup- Building for the Enterprise|How to Start a Startup: Building for the Enterprise]] 📝
+- [[How to Start a Startup- Building products users love|How to Start a Startup: Building products users love]] 📝
+- [[How to Start a Startup- Diversity and inclusion at early stage startups|How to Start a Startup: Diversity and inclusion at early stage startups]] 📝
+- [[How to Start a Startup- Finding Product-Market Fit|How to Start a Startup: Finding Product-Market Fit]] 📝
+- [[How to Start a Startup- Getting started, getting press, and doing things that don't scale|How to Start a Startup: Getting started, getting press, and doing things that don't scale]] 📝
+- [[How to Start a Startup- How to get ideas and find what's working|How to Start a Startup: How to get ideas and find what's working]] 📝
+- [[How to Start a Startup- Raising money and succeeding long-term|How to Start a Startup: Raising money and succeeding long-term]] 📝
+- [[How to Start a Startup- Startup mechanics|How to Start a Startup: Startup mechanics]] 📝
+- [[How to Start a Startup- Talking to users|How to Start a Startup: Talking to users]] 📝
+- [[How to succeed with a startup]] 📝
+- [[How to Survive the Crypto Boom & Bust Cycle]] 📝
+- [[How to talk to users]] 📝
+- [[How To Train An LLM with Anthropic's Head of Pretraining]] 📝
+- [[How To Use AI In Your Startup]] 📝
+- [[How YC Was Created With Jessica Livingston]] 📝
+- [[How Zepto Became India’s Fastest Growing Startup]] 📝
+- [[Inside Claude Code With Its Creator Boris Cherny]] 📝
+- [[Inside Garry Tan's AI Coding Setup]] 📝
+- [[Inside the Group Partner Lounge- Advantages of a first-time founder|Inside the Group Partner Lounge: Advantages of a first-time founder]] 📝
+- [[Inside the Group Partner Lounge- Don't make these hiring mistakes|Inside the Group Partner Lounge: Don't make these hiring mistakes]] 📝
+- [[Inside the Group Partner Lounge- How to compete with Amazon and Google|Inside the Group Partner Lounge: How to compete with Amazon and Google]] 📝
+- [[Inside the Group Partner Lounge- Investors said no, now what-|Inside the Group Partner Lounge: Investors said no, now what?]] 📝
+- [[Inside the Group Partner Lounge- The ideal customer|Inside the Group Partner Lounge: The ideal customer]] 📝
+- [[Inside the Group Partner Lounge- Top ways startups waste money|Inside the Group Partner Lounge: Top ways startups waste money]] 📝
+- [[Inside the Group Partner Lounge- Turning users into paid customers|Inside the Group Partner Lounge: Turning users into paid customers]] 📝
+- [[Inside the Group Partner Lounge- When to launch your startup|Inside the Group Partner Lounge: When to launch your startup]] 📝
+- [[Inside The Hard Tech Startups Turning Sci-Fi Into Reality -[Lightcone Podcast Ep. 5-]|Inside The Hard Tech Startups Turning Sci-Fi Into Reality \[Lightcone Podcast Ep. 5\]]] 📝
+- [[Inside The MIT AI Study Everyone Misunderstood (And What It Means For Startups)]] 📝
+- [[Inside The Startup Building Reusable Rockets]] 📝
+- [[Inside The Startup Launching AI Into Space]] 📝
+- [[Inside The Startup Reinventing America’s Trillion Dollar Chemical Industry]] 📝
+- [[Jeff Dean on building intelligent systems with large scale deep learning]] 📝
+- [[John Jumper- AlphaFold and the Future of Science|John Jumper: AlphaFold and the Future of Science]] 📝
+- [[Key Startup Metrics]] 📝
+- [[Keys To Successful Co-Founder Relationships]] 📝
+- [[Lightcone Podcast - YC Library]] 📝
+- [[Live office hours with Sam Altman and Yuri Sagalov]] 📝
+- [[Live office hours with YC's Kevin Hale and Dalton Caldwell (2017)]] 📝
+- [[Live office hours with YC's Paul Graham and Sam Altman (2013)]] 📝
+- [[Managing startup finances]] 📝
+- [[Mark Zuckerberg on building a startup]] 📝
+- [[Michael Truell- Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students|Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students]] 📝
+- [[Modern startup funding]] 📝
+- [[Most startups are undercharging]] 📝
+- [[Now Anyone Can Code- How AI Agents Can Build Your Whole App|Now Anyone Can Code: How AI Agents Can Build Your Whole App]] 📝
+- [[On raising Seed and Series A as a woman founder]] 📝
+- [[On starting a company from a hackathon project]]
+- [[On starting and scaling Bloom Institute of Technology]] 📝
+- [[On starting and scaling construction startup PlanGrid]] 📝
+- [[On starting and scaling direct mail automation startup Lob]] 📝
+- [[On starting and scaling Dropbox (YC W07)]] 📝
+- [[On starting and scaling healthcare startup 23andMe]] 📝
+- [[On Starting and Scaling Hubspot]] 📝
+- [[On starting and scaling Indian shopping site Meesho]] 📝
+- [[On Starting and Scaling Intercom]] 📝
+- [[On starting and scaling meal kit company Gobble]] 📝
+- [[On starting and scaling one of the biggest iOS apps]] 📝
+- [[On starting and scaling recruiting software startup Lever]] 📝
+- [[On Starting and Scaling Second Measure (YC W15)]] 📝
+- [[One order of operations for starting a startup]] 📝
+- [[Order of operations for starting a startup]] 📝
+- [[Patrick Collison on effectively running a startup]] 📝
+- [[Paul Graham, Live from Stockholm]] 📝
+- [[Product Advice for Hardware Founders]]
+- [[Product and design process for remote teams]] 📝
+- [[Quantum computing with Chad Rigetti]] 📝
+- [[Replit CEO Amjad Masad- Coding Agents, Autonomy, and the Future of Work|Replit CEO Amjad Masad: Coding Agents, Autonomy, and the Future of Work]] 📝
+- [[Robots Are Finally Starting to Work]] 📝
+- [[Sam Altman on how to pick which startup to work at]] 📝
+- [[Sam Altman- The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware|Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware]] 📝
+- [[Satya Nadella- Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs|Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs]] 📝
+- [[Scaling and the Road to Human-Level AI - Anthropic Co-founder Jared Kaplan|Scaling and the Road to Human-Level AI \| Anthropic Co-founder Jared Kaplan]] 📝
+- [[Setting KPIs and goals]] 📝
+- [[Should I start a startup-|Should I start a startup?]] 📝
+- [[Should I use a dev shop-|Should I use a dev shop?]] 📝
+- [[Should you start a startup-|Should you start a startup?]] 📝
+- [[Should your startup bootstrap or raise venture capital-|Should your startup bootstrap or raise venture capital?]] 📝
+- [[Signs Your Company Is Recovering From ZIRP]] 📝
+- [[Standing Up For Startups - YC Goes To D.C|Standing Up For Startups - YC Goes To D.C.]] 📝
+- [[Starting A Company- The Key Terms You Should Know|Starting A Company? The Key Terms You Should Know]] 📝
+- [[Startup Ideas You Can Now Build With AI]] 📝
+- [[Startup legal mechanics]] 📝
+- [[Startup pricing 101]] 📝
+- [[Startup School - YC Library]] 📝
+- [[State-Of-The-Art Prompting For AI Agents]] 📝
+- [[Stop Innovating (On The Wrong Things)]] 📝
+- [[Stripe Head of Design Katie Dill Reviews Startup Websites]] 📝
+- [[Tarpit Ideas- The Sequel|Tarpit Ideas: The Sequel]] 📝
+- [[The 10 Lines of Code Behind AI Image Gen]] 📝
+- [[The 10 Trillion Parameter AI Model With 300 IQ]] 📝
+- [[The 10-Year “Overnight” Success Story of Casetext]] 📝
+- [[The 5 things that kill startups post seed rounds]] 📝
+- [[The 7 Most Powerful Moats For AI Startup]] 📝
+- [[The AI Agent Economy Is Here]] 📝
+- [[The asymmetric upside of being positive]] 📝
+- [[The best way to launch your startup]] 📝
+- [[The Engineering Unlocks Behind DeepSeek - YC Decoded|The Engineering Unlocks Behind DeepSeek \| YC Decoded]] 📝
+- [[The FDE Playbook for AI Startups with Bob McGrew]] 📝
+- [[The Finance Startup Bringing Agentic AI to Wall Street]] 📝
+- [[The Future Of Design With Figma's Dylan Field]] 📝
+- [[The Future of Software Creation with Replit CEO Amjad Masad]] 📝
+- [[The Immigrant Journey Behind A Silicon Valley Success Story]] 📝
+- [[The Lightcone 2025 Forecast]] 📝
+- [[The Main Function - YC Library]] 📝
+- [[The Main Function- How to go from startup dream to reality|The Main Function: How to go from startup dream to reality]] 📝
+- [[The New Way To Build A Startup]] 📝
+- [[The Next Breakthrough In AI Agents Is Here]] 📝
+- [[The path to $100B]] 📝
+- [[The Playbook For Building An AI Native Company]] 📝
+- [[The Problem With Startup -Experts-|The Problem With Startup "Experts"]] 📝
+- [[The real product-market fit]] 📝
+- [[The Right (And Wrong) Way To Spend Money At Your Startup]] 📝
+- [[The Sales Playbook for Founders]] 📝
+- [[The Secrets of Y Combinator’s Early Success (with YC Co-Founder Jessica Livingston)]] 📝
+- [[The Truth About Building AI Startups Today -[Lightcone Podcast Ep. 1-]|The Truth About Building AI Startups Today \[Lightcone Podcast Ep. 1\]]] 📝
+- [[The Untold Stories of Y Combinator with Co-Founder Jessica Livingston]] 📝
+- [[The World's First Commercial Mobile Carbon Capture Device]] 📝
+- [[This Startup Wants To Catch Cancer Before It Spreads]] 📝
+- [[Tips for technical startup founders]] 📝
+- [[Tokenmaxxing- How Top Builders Use AI To Do The Work Of 400 Engineers|Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers]] 📝
+- [[Transformers Explained- The Discovery That Changed AI Forever|Transformers Explained: The Discovery That Changed AI Forever]] 📝
+- [[Twitter vs. X- Product Lessons For Startup Founders|Twitter vs. X: Product Lessons For Startup Founders]] 📝
+- [[Understanding SAFEs and priced equity rounds]] 📝
+- [[Unpopular Ideas That Became Billion-Dollar Businesses]] 📝
+- [[User you don't want]] 📝
+- [[Vertical AI Agents Could Be 10X Bigger Than SaaS]] 📝
+- [[Vibe Coding Is The Future]] 📝
+- [[Vinod Khosla on How to Build the Future]] 📝
+- [[Weave (W14) is Going Public]] 📝
+- [[What Everyone Is Getting Wrong About AI And Jobs]] 📝
+- [[What Founders Have To Unlearn To Become Great CEOs]] 📝
+- [[What Is ZIRP And How Did It Poison Startups-|What Is ZIRP And How Did It Poison Startups?]] 📝
+- [[What makes great founders stand out-|What makes great founders stand out?]] 📝
+- [[What's different about unicorns-|What's different about unicorns?]] 📝
+- [[When Should You Trust Your Gut-|When Should You Trust Your Gut?]] 📝
+- [[Where Is The REAL Cerebral Valley- -[Lightcone Podcast Ep. 3-]|Where Is The REAL Cerebral Valley? \[Lightcone Podcast Ep. 3\]]] 📝
+- [[Why Design Matters- Lessons from Stripe, Lyft and Airbnb|Why Design Matters: Lessons from Stripe, Lyft and Airbnb]] 📝
+- [[Why do startups fail-|Why do startups fail?]]
+- [[Why Every Founder Should Care About Design]] 📝
+- [[Why Founders Shouldn't Think Like Investors]] 📝
+- [[Why fundraising is different in Silicon Valley]] 📝
+- [[Why OpenAI's o1 Is A Huge Deal]] 📝
+- [[Why Startup Founders Should Launch Companies Sooner Than They Think]] 📝
+- [[Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling]] 📝
+- [[Why This Is The Perfect Time To Start A Startup -[Lightcone Podcast LIVE-]|Why This Is The Perfect Time To Start A Startup \[Lightcone Podcast LIVE\]]] 📝
+- [[Why YC- We asked 50 founders why they applied to Y Combinator|Why YC? We asked 50 founders why they applied to Y Combinator]] 📝
+- [[Why you should or should not work at a startup]] 📝
+- [[Why Your Startup Website Isn't Converting]] 📝
+- [[Windsurf CEO- Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding|Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding]] 📝
+- [[YC Application Advice From African Startups]] 📝
+- [[YC Application Tips- Include a demo|YC Application Tips: Include a demo]] 📝
+- [[YC Decoded - YC Library]] 📝
+- [[YC guide to business models]] 📝
+- [[YC Partners Answer Your Questions - Office Hours|YC Partners Answer Your Questions \| Office Hours]] 📝
+- [[YC's Group Partners Discuss Doing Things That Don't Scale]] 📝
+- [[YC's Group Partners share their favorite pivot stories]] 📝
+- [[YC's Group Partners share their worst investor meetings]] 📝
+- [[YC’s Group Partners share productivity tips and advice on actually getting things done]] 📝
+- [[You Don’t Have To Be A Billionaire To Launch Satellites]] 📝
