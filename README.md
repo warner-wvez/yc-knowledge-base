@@ -2,7 +2,7 @@
 
 A personal second brain built from the entire [Y Combinator Startup Library](https://www.ycombinator.com/library). Every talk, podcast, and essay in the library was turned into one linked note, so that decades of startup advice becomes one searchable, connected graph instead of hundreds of videos and articles scattered across the internet.
 
-This repository is the structure of that brain. It shows how it was built and what it gets used for. The full transcripts are not included (see [A note on the content](#a-note-on-the-content)), but every note, link, author, and series is here, so you can see exactly how the system is wired together.
+This repo is the structure of that brain. It shows how it was built and what it gets used for. The full transcripts aren't included (see [A note on the content](#a-note-on-the-content)), but every note, link, author, and series is here, so you can see exactly how the system is wired together.
 
 ---
 
@@ -128,6 +128,6 @@ You can also just browse the Markdown files right here on GitHub. Start with [`v
 
 ## Why I built this
 
-I am a solo founder. The YC Startup Library is one of the best free collections of startup advice that exists, but it is spread across hundreds of hours of video and dozens of essays, and none of it is connected. When I am making a real decision, I do not want to scrub through a two hour podcast hoping to re-find the thing I half-remember. I want to ask a question, get the handful of sources that actually speak to it, and see who said what and where.
+I'm a solo founder and business owner. The YC Startup Library is one of the best free collections of startup advice that exists out there, but it's spread across hundreds of hours of video and dozens of essays, and none of it is connected. When I'm making a real decision, I don't want to scrub through a two hour podcast hoping to re-find the thing I half-remember. I want to ask a question, get the handful of sources that actually speak to it, and see who said what and where.
 
 So I built the brain that does that. This repo is how it works and what it is for.
