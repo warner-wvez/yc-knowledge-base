@@ -8,45 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": " path:Videos ",
+      "query": "\"get into yc\" OR \"apply to yc\" OR \"office hours\" OR \"yc interview\" OR application",
       "color": {
         "a": 1,
-        "rgb": 2282478
+        "rgb": 15026253
       }
     },
     {
-      "query": "path:Articles  ",
+      "query": "pricing OR price OR revenue OR monetization OR \"business model\" OR freemium",
       "color": {
         "a": 1,
-        "rgb": 3462041
+        "rgb": 16096779
       }
     },
     {
-      "query": "path:Series  ",
+      "query": "fundraising OR fundraise OR seed OR \"series a\" OR \"term sheet\" OR investor OR valuation OR equity OR pitch",
       "color": {
         "a": 1,
-        "rgb": 10980346
+        "rgb": 3187820
       }
     },
     {
-      "query": "path:People  ",
+      "query": "customer OR \"user interview\" OR \"user feedback\" OR \"the mom test\" OR \"talk to your users\"",
       "color": {
         "a": 1,
-        "rgb": 16486972
+        "rgb": 15285634
       }
     },
     {
-      "query": "path:_maps  ",
+      "query": "growth OR conversion OR acquisition OR distribution OR marketing OR funnel OR retention",
       "color": {
         "a": 1,
-        "rgb": 16436245
+        "rgb": 37375
       }
     },
     {
-      "query": "tag:#decision  ",
+      "query": "hiring OR \"how to hire\" OR recruiting OR co-founder OR cofounder OR \"first employee\" OR \"company culture\"",
       "color": {
         "a": 1,
-        "rgb": 16020150
+        "rgb": 9326278
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 0.830512152777778,
   "linkDistance": 500,
-  "scale": 0.20404839395285798,
-  "close": true
+  "scale": 0.05631750850768422,
+  "close": false
 }
