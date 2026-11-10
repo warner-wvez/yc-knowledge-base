@@ -8,7 +8,7 @@ tags:
 
 # Aaron Epstein
 
-YC Library entries: **13**
+YC Library entries: **14**
 
 ## Talks and Essays
 
@@ -25,3 +25,4 @@ YC Library entries: **13**
 - [[Why Design Matters- Lessons from Stripe, Lyft and Airbnb|Why Design Matters: Lessons from Stripe, Lyft and Airbnb]] _(video)_
 - [[Why Every Founder Should Care About Design]] _(video)_
 - [[Why Your Startup Website Isn't Converting]] _(video)_
+- [[YC's Head of Design Shows You How To Design With AI]] _(video)_

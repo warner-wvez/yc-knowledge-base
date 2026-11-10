@@ -8,8 +8,9 @@ tags:
 
 # AI Startup School
 
-Entries in this series: **15**
+Entries in this series: **17**
 
+- [[Aaron Levie- Why Startups Win In The AI Era|Aaron Levie: Why Startups Win In The AI Era]] _(video)_
 - [[Andrej Karpathy- Software Is Changing (Again)|Andrej Karpathy: Software Is Changing (Again)]] _(video)_
 - [[Andrew Ng- Building Faster with AI|Andrew Ng: Building Faster with AI]] _(video)_
 - [[Aravind Srinivas- The Race to Build the AI Browser of the Future|Aravind Srinivas: The Race to Build the AI Browser of the Future]] _(video)_
@@ -19,6 +20,7 @@ Entries in this series: **15**
 - [[Fei-Fei Li- Spatial Intelligence is the Next Frontier in AI|Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI]] _(video)_
 - [[Figma CEO Dylan Field- How AI Will Transform Design|Figma CEO Dylan Field: How AI Will Transform Design]] _(video)_
 - [[François Chollet- The ARC Prize & How We Get to AGI|François Chollet: The ARC Prize & How We Get to AGI]] _(video)_
+- [[From Idea to $650M Exit- Lessons in Building AI Startups|From Idea to $650M Exit: Lessons in Building AI Startups]] _(video)_
 - [[John Jumper- AlphaFold and the Future of Science|John Jumper: AlphaFold and the Future of Science]] _(video)_
 - [[Michael Truell- Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students|Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students]] _(video)_
 - [[Sam Altman- The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware|Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware]] _(video)_

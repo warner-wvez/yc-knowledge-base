@@ -8,7 +8,7 @@ tags:
 
 # Lightcone Podcast
 
-Entries in this series: **45**
+Entries in this series: **53**
 
 - [[10 People + AI = Billion Dollar Company-|10 People + AI = Billion Dollar Company?]] _(video)_
 - [[2024’s Biggest Startup Trends]] _(video)_
@@ -25,6 +25,7 @@ Entries in this series: **45**
 - [[Consumer is back, What’s getting funded now, The vibes immaculate -[Lightcone Podcast Ep. 6-]|Consumer is back, What’s getting funded now, The vibes immaculate \[Lightcone Podcast Ep. 6\]]] _(video)_
 - [[François Chollet- ARC-AGI-3, Beyond Deep Learning & A New Approach To ML|François Chollet: ARC-AGI-3, Beyond Deep Learning & A New Approach To ML]] _(video)_
 - [[Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom]] _(video)_
+- [[He Built the World's -#1 Open-Source Coding Agent|He Built the World's \#1 Open-Source Coding Agent]] _(video)_
 - [[How AI Is Changing Enterprise]] _(video)_
 - [[How To Get AI Startup Ideas]] _(video)_
 - [[How To Get The Most Out Of Coding Agents]] _(video)_
@@ -34,21 +35,28 @@ Entries in this series: **45**
 - [[Inside Claude Code With Its Creator Boris Cherny]] _(video)_
 - [[Inside The Hard Tech Startups Turning Sci-Fi Into Reality -[Lightcone Podcast Ep. 5-]|Inside The Hard Tech Startups Turning Sci-Fi Into Reality \[Lightcone Podcast Ep. 5\]]] _(video)_
 - [[Inside The MIT AI Study Everyone Misunderstood (And What It Means For Startups)]] _(video)_
+- [[Inside YC's AI Playbook]] _(video)_
 - [[Now Anyone Can Code- How AI Agents Can Build Your Whole App|Now Anyone Can Code: How AI Agents Can Build Your Whole App]] _(video)_
+- [[Open Models Change The Economics of AI]] _(video)_
 - [[Robots Are Finally Starting to Work]] _(video)_
 - [[Startup Ideas You Can Now Build With AI]] _(video)_
 - [[State-Of-The-Art Prompting For AI Agents]] _(video)_
 - [[The 10 Trillion Parameter AI Model With 300 IQ]] _(video)_
 - [[The 7 Most Powerful Moats For AI Startup]] _(video)_
 - [[The AI Agent Economy Is Here]] _(video)_
+- [[The Age Of The 40-Year-Old Solo Founder Is Here]] _(video)_
+- [[The Case For Data Centers In Space]] _(video)_
 - [[The FDE Playbook for AI Startups with Bob McGrew]] _(video)_
 - [[The Lightcone 2025 Forecast]] _(video)_
+- [[The Most AI-Pilled CEO We Know]] _(video)_
+- [[The Powerful Alternative To Fine-Tuning]] _(video)_
 - [[The Truth About Building AI Startups Today -[Lightcone Podcast Ep. 1-]|The Truth About Building AI Startups Today \[Lightcone Podcast Ep. 1\]]] _(video)_
 - [[Tokenmaxxing- How Top Builders Use AI To Do The Work Of 400 Engineers|Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers]] _(video)_
 - [[Unpopular Ideas That Became Billion-Dollar Businesses]] _(video)_
 - [[Vertical AI Agents Could Be 10X Bigger Than SaaS]] _(video)_
 - [[Vibe Coding Is The Future]] _(video)_
 - [[What Founders Have To Unlearn To Become Great CEOs]] _(video)_
+- [[What Happens When Everyone Can Build Software]] _(video)_
 - [[What Surprised Us Most In 2025]] _(article)_
 - [[Where Is The REAL Cerebral Valley- -[Lightcone Podcast Ep. 3-]|Where Is The REAL Cerebral Valley? \[Lightcone Podcast Ep. 3\]]] _(video)_
 - [[Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling]] _(video)_

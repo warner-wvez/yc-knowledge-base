@@ -8,33 +8,60 @@ tags:
 
 # Y Combinator
 
-YC Library entries: **85**
+YC Library entries: **229**
 
 ## Talks and Essays
 
+- [[10 Habits PhDs Must Unlearn To Build a Startup]] _(video)_
 - [[10 People + AI = Billion Dollar Company-|10 People + AI = Billion Dollar Company?]] _(video)_
 - [[10 questions to discuss with a potential co-founder]] _(article)_
 - [[2024’s Biggest Startup Trends]] _(video)_
 - [[33 AI Startup Founders Debate the Creation of Artificial General Intelligence]] _(video)_
+- [[AI Agents That Banks Can Trust]] _(video)_
 - [[AI Is Eating Logistics]] _(article)_
 - [[AI Revolution- Why This Is The Best Time To Start A Startup|AI Revolution: Why This Is The Best Time To Start A Startup]] _(video)_
+- [[AI Safety Fact vs. Fiction]] _(video)_
+- [[AI Trade School for Healthcare]] _(video)_
+- [[AI-Powered Revenue is Here]] _(video)_
+- [[Aaron Levie- Why Startups Win In The AI Era|Aaron Levie: Why Startups Win In The AI Era]] _(video)_
 - [[Agents For Non-Technical Users]] _(video)_
+- [[Aleph- The AI Platform for Modern Finance|Aleph: The AI Platform for Modern Finance]] _(video)_
+- [[Alex- Your AI Recruiting Partner|Alex: Your AI Recruiting Partner]] _(video)_
 - [[Alexandr Wang- Building Scale AI, Transforming Work with Agents & Competing With China|Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China]] _(video)_
+- [[Alexandr Wang- “This is a Once-in-a-Civilization Opportunity”|Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”]] _(video)_
 - [[Andrej Karpathy- Software Is Changing (Again)|Andrej Karpathy: Software Is Changing (Again)]] _(video)_
 - [[Andrew Ng- Building Faster with AI|Andrew Ng: Building Faster with AI]] _(video)_
 - [[Anthropic Co-founder- Building Claude Code, Lessons From GPT-3 & LLM System Design|Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design]] _(video)_
 - [[Apple Vision Pro- Startup Platform Of The Future- -[Lightcone Podcast Ep. 2-]|Apple Vision Pro: Startup Platform Of The Future? \[Lightcone Podcast Ep. 2\]]] _(video)_
 - [[Aravind Srinivas- The Race to Build the AI Browser of the Future|Aravind Srinivas: The Race to Build the AI Browser of the Future]] _(video)_
 - [[Are We In An AI Hype Cycle-|Are We In An AI Hype Cycle?]] _(video)_
+- [[Artie- Real Time Data Streaming For The AI Age|Artie: Real Time Data Streaming For The AI Age]] _(video)_
+- [[Automating Billion Dollar Brands]] _(video)_
 - [[Backstory- Surbhi Sarna|Backstory: Surbhi Sarna]] _(video)_
 - [[Backstory- Tom Blomfield|Backstory: Tom Blomfield]] _(video)_
 - [[Better AI Models, Better Startups -[Lightcone Podcast Ep. 7-]|Better AI Models, Better Startups \[Lightcone Podcast Ep. 7\]]] _(video)_
+- [[Blake Scholl- How 50 People Built a Supersonic Jet|Blake Scholl: How 50 People Built a Supersonic Jet]] _(video)_
+- [[Building AI Agents for Everyone]] _(video)_
 - [[Building AI Models Faster And Cheaper Than You Think -[Lightcone Podcast Ep. 4-]|Building AI Models Faster And Cheaper Than You Think \[Lightcone Podcast Ep. 4\]]] _(video)_
+- [[Building AI That Optimizes AI]] _(video)_
+- [[Building AI for the $650B Home Services Market]] _(video)_
+- [[Building Physical AI for the Industrial World]] _(video)_
 - [[Building The World's Best Image Diffusion Model]] _(video)_
+- [[Building the Agentic AI Platform for Hospitals]] _(video)_
+- [[Building the Safety Layer for AI Agents]] _(video)_
+- [[Centralize is the GPS for Enterprise Deals]] _(video)_
 - [[Chelsea Finn- Building Robots That Can Do Anything|Chelsea Finn: Building Robots That Can Do Anything]] _(video)_
+- [[Chelsea Finn- This is the State of the Art in Robotics|Chelsea Finn: This is the State of the Art in Robotics]] _(video)_
+- [[Circleback CEO Ali Haghani- Why Your Company Should Be Recording More Meetings|Circleback CEO Ali Haghani: Why Your Company Should Be Recording More Meetings]] _(video)_
+- [[Commure- The AI Operating System for Healthcare|Commure: The AI Operating System for Healthcare]] _(video)_
+- [[Conductor is The Tool the Best Engineers Are Using Right Now]] _(video)_
 - [[Consumer is back, What’s getting funded now, The vibes immaculate -[Lightcone Podcast Ep. 6-]|Consumer is back, What’s getting funded now, The vibes immaculate \[Lightcone Podcast Ep. 6\]]] _(video)_
+- [[David AI- Powering the Voice Era of AI|David AI: Powering the Voice Era of AI]] _(video)_
 - [[Elon Musk- Digital Superintelligence, Multiplanetary Life, How to Be Useful|Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful]] _(video)_
+- [[Emergent- How Six Months of Tinkering Led To A $100M ARR Company|Emergent: How Six Months of Tinkering Led To A $100M ARR Company]] _(video)_
+- [[Emergent- The AI App Builder for Everyone|Emergent: The AI App Builder for Everyone]] _(video)_
 - [[Every AI Founder Should Be Asking These Questions]] _(video)_
+- [[Exa- Organizing the World’s Knowledge|Exa: Organizing the World’s Knowledge]] _(video)_
 - [[Fei-Fei Li- Spatial Intelligence is the Next Frontier in AI|Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI]] _(video)_
 - [[Figma CEO Dylan Field- How AI Will Transform Design|Figma CEO Dylan Field: How AI Will Transform Design]] _(video)_
 - [[Founder FAQ- 40 AI startup founders on the current state of AI tech|Founder FAQ: 40 AI startup founders on the current state of AI tech]] _(video)_
@@ -42,58 +69,175 @@ YC Library entries: **85**
 - [[Founder FAQ- How did you meet your co-founder-|Founder FAQ: How did you meet your co-founder?]] _(video)_
 - [[François Chollet- ARC-AGI-3, Beyond Deep Learning & A New Approach To ML|François Chollet: ARC-AGI-3, Beyond Deep Learning & A New Approach To ML]] _(video)_
 - [[François Chollet- The ARC Prize & How We Get to AGI|François Chollet: The ARC Prize & How We Get to AGI]] _(video)_
+- [[From Idea to $650M Exit- Lessons in Building AI Startups|From Idea to $650M Exit: Lessons in Building AI Startups]] _(video)_
 - [[From Pivot Hell To $1.4 Billion Unicorn]] _(video)_
+- [[From Zapier for Devs to Powering 90% AI Agents]] _(video)_
 - [[Garry Tan speaks at Stanford's Entrepreneurial Thought Leaders (ETL) lecture series]] _(video)_
+- [[Giga- The AI Platform for Enterprise Support|Giga: The AI Platform for Enterprise Support]] _(video)_
 - [[Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom]] _(video)_
+- [[Going In Deep On Data]] _(video)_
+- [[Greptile- AI That Actually Understands Codebases|Greptile: AI That Actually Understands Codebases]] _(video)_
+- [[Groww- If Your Customers Don't Love It or Hate It, You've Already Lost|Groww: If Your Customers Don't Love It or Hate It, You've Already Lost]] _(video)_
+- [[HappyRobot- Automating the Work That Moves the World|HappyRobot: Automating the Work That Moves the World]] _(video)_
+- [[Harshil Mathur- AI Is Compressing Every Moat|Harshil Mathur: AI Is Compressing Every Moat]] _(video)_
+- [[He Built the World's -#1 Open-Source Coding Agent|He Built the World's \#1 Open-Source Coding Agent]] _(video)_
+- [[Hightouch- Revolutionizing Personalized Marketing With The First Agentic Marketer|Hightouch: Revolutionizing Personalized Marketing With The First Agentic Marketer]] _(video)_
 - [[How AI Is Changing Enterprise]] _(video)_
+- [[How Diode Is 10x-ing Hardware Design]] _(video)_
 - [[How Do Billion Dollar Startups Start-|How Do Billion Dollar Startups Start?]] _(video)_
+- [[How Jeetu Patel Runs Cisco Like the World’s Largest Startup]] _(video)_
+- [[How Legora Went From YC to $100M ARR in 18 Months]] _(video)_
+- [[How Meesho Became India’s Biggest Shopping App]] _(video)_
+- [[How Onebrief Is Fixing Military Planning With Software]] _(video)_
+- [[How Outset Turned AI Interviews Into a New Category]] _(video)_
+- [[How Photoroom Trained Themselves To Dream Bigger]] _(video)_
+- [[How Supabase Became One Of The Fastest Growing DevTool Companies In The World]] _(video)_
 - [[How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)]] _(video)_
+- [[How To Build A Truly Abundant Future]] _(video)_
+- [[How To Build The Future- Paul Graham & Amjad Masad|How To Build The Future: Paul Graham & Amjad Masad]] _(video)_
+- [[How To Design In The Agent Era]] _(video)_
 - [[How To Get AI Startup Ideas]] _(video)_
 - [[How To Get The Most Out Of Coding Agents]] _(video)_
 - [[How To Navigate Co-Founder Disputes]] _(video)_
 - [[How To Recruit The Best Engineers And Sales Reps]] _(video)_
+- [[How To Stand Out In A World Of AI Designs]] _(video)_
 - [[How To Train An LLM with Anthropic's Head of Pretraining]] _(video)_
 - [[How To Use AI In Your Startup]] _(video)_
+- [[How Warp Went From YC to a $60M Series B]] _(video)_
+- [[How We Redesigned Our Website]] _(video)_
 - [[How YC Was Created With Jessica Livingston]] _(video)_
 - [[How to Spend Your 20s in the AI Era]] _(video)_
+- [[How to Start a Startup- Building Product, Talking to Users, and Growing|How to Start a Startup: Building Product, Talking to Users, and Growing]] _(video)_
+- [[How to Start a Startup- Building for the Enterprise (Aaron Levie)|How to Start a Startup: Building for the Enterprise (Aaron Levie)]] _(video)_
+- [[How to Start a Startup- Competition is for Losers|How to Start a Startup: Competition is for Losers]] _(video)_
+- [[How to Start a Startup- Growth|How to Start a Startup: Growth]] _(video)_
+- [[How to Start a Startup- How to Design Hardware Products|How to Start a Startup: How to Design Hardware Products]] _(video)_
+- [[How to Start a Startup- How to Manage|How to Start a Startup: How to Manage]] _(video)_
+- [[How to Start a Startup- How to Operate|How to Start a Startup: How to Operate]] _(video)_
+- [[How to Start a Startup- How to Raise Money|How to Start a Startup: How to Raise Money]] _(video)_
+- [[How to Start a Startup- How to be a Great Founder|How to Start a Startup: How to be a Great Founder]] _(video)_
+- [[How to Start a Startup- Introduction|How to Start a Startup: Introduction]] _(video)_
+- [[How to Start a Startup- Legal and Accounting Basics for Startups|How to Start a Startup: Legal and Accounting Basics for Startups]] _(video)_
+- [[How to Start a Startup- Sales and Marketing; How to Talk to Investors|How to Start a Startup: Sales and Marketing; How to Talk to Investors]] _(video)_
+- [[How to Start a Startup- Team and Execution|How to Start a Startup: Team and Execution]] _(video)_
+- [[India Can Create The Largest AI Companies]] _(video)_
+- [[Inference, Diffusion, World Models, and More]] _(video)_
+- [[Infisical- The Open Source Security Stack|Infisical: The Open Source Security Stack]] _(video)_
 - [[Inside Claude Code With Its Creator Boris Cherny]] _(video)_
 - [[Inside The Hard Tech Startups Turning Sci-Fi Into Reality -[Lightcone Podcast Ep. 5-]|Inside The Hard Tech Startups Turning Sci-Fi Into Reality \[Lightcone Podcast Ep. 5\]]] _(video)_
 - [[Inside The MIT AI Study Everyone Misunderstood (And What It Means For Startups)]] _(video)_
 - [[Inside The Startup Building Reusable Rockets]] _(video)_
+- [[Is AI Now Good Enough To Cure Cancer-|Is AI Now Good Enough To Cure Cancer?]] _(video)_
+- [[Jeff Dean- The 1% Rule for Building in AI|Jeff Dean: The 1% Rule for Building in AI]] _(video)_
+- [[Jensen Huang- The Mindset That Built NVIDIA|Jensen Huang: The Mindset That Built NVIDIA]] _(video)_
 - [[John Jumper- AlphaFold and the Future of Science|John Jumper: AlphaFold and the Future of Science]] _(video)_
+- [[Juicebox- AI Agents for the Hiring Process|Juicebox: AI Agents for the Hiring Process]] _(video)_
+- [[Latin America's Global Bank]] _(video)_
+- [[Legendary Consumer VC Predicts The Future Of AI Products]] _(video)_
+- [[Lessons From Training Composer At Cursor And Building Meta-Nvidia Compute Clusters|Lessons From Training Composer At Cursor And Building Meta/Nvidia Compute Clusters]] _(video)_
+- [[Magic Patterns- The AI Design Tool for Product Teams|Magic Patterns: The AI Design Tool for Product Teams]] _(video)_
+- [[Max Hodak- Average Is Not Good Enough|Max Hodak: Average Is Not Good Enough]] _(video)_
+- [[Max Junestrand- You Need The Willingness To Learn Faster Than Anyone Else|Max Junestrand: You Need The Willingness To Learn Faster Than Anyone Else]] _(video)_
+- [[Michael Kratsios- Inside the White House's AI Strategy|Michael Kratsios: Inside the White House's AI Strategy]] _(video)_
 - [[Michael Truell- Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students|Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students]] _(video)_
+- [[Motion- Redefining How Work Gets Done|Motion: Redefining How Work Gets Done]] _(video)_
 - [[Now Anyone Can Code- How AI Agents Can Build Your Whole App|Now Anyone Can Code: How AI Agents Can Build Your Whole App]] _(video)_
+- [[Numeral- Building the Global Tax Platform|Numeral: Building the Global Tax Platform]] _(video)_
+- [[Open Models Change The Economics of AI]] _(video)_
+- [[OpenClaw Creator- Why 80% Of Apps Will Disappear|OpenClaw Creator: Why 80% Of Apps Will Disappear]] _(video)_
+- [[Parahelp- The End-to-End AI Support Agent|Parahelp: The End-to-End AI Support Agent]] _(video)_
 - [[Paul Graham, Live from Stockholm]] _(video)_
+- [[Peter Steinberger- -Fun Is Velocity-|Peter Steinberger: "Fun Is Velocity"]] _(video)_
+- [[Rebuilding Customer Support for the AI Era]] _(video)_
+- [[Recall.ai- Unlocking the World’s Conversations|Recall.ai: Unlocking the World’s Conversations]] _(video)_
+- [[Recursion Is The Next Scaling Law In AI]] _(video)_
+- [[Reducto- Making Human Data LLM-Ready With State-of-the-Art Accuracy|Reducto: Making Human Data LLM-Ready With State-of-the-Art Accuracy]] _(video)_
 - [[Replit CEO Amjad Masad- Coding Agents, Autonomy, and the Future of Work|Replit CEO Amjad Masad: Coding Agents, Autonomy, and the Future of Work]] _(video)_
+- [[Replit's CEO On The Only Two Jobs Left In The Company Of The Future]] _(video)_
+- [[RevenueCat- Powering Subscriptions for the App Economy|RevenueCat: Powering Subscriptions for the App Economy]] _(video)_
+- [[Robot-Use Agents- Why General-Purpose Models May Win in Robotics|Robot-Use Agents: Why General-Purpose Models May Win in Robotics]] _(video)_
 - [[Robots Are Finally Starting to Work]] _(video)_
+- [[Salient- The Fintech Startup Processing $1B+ in Loans with AI|Salient: The Fintech Startup Processing $1B+ in Loans with AI]] _(video)_
 - [[Sam Altman- The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware|Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware]] _(video)_
 - [[Satya Nadella- Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs|Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs]] _(video)_
 - [[Scaling and the Road to Human-Level AI - Anthropic Co-founder Jared Kaplan|Scaling and the Road to Human-Level AI \| Anthropic Co-founder Jared Kaplan]] _(video)_
+- [[Self-Play for LLMs, AI for Biology, Formal Verification, and More]] _(video)_
+- [[Sim- The Visual, End-to-End Agent Builder|Sim: The Visual, End-to-End Agent Builder]] _(video)_
+- [[Solving the Blank Canvas Problem- Gusto's AI Co-Founder|Solving the Blank Canvas Problem: Gusto's AI Co-Founder]] _(video)_
+- [[Sphere- The Global Tax Compliance Platform|Sphere: The Global Tax Compliance Platform]] _(video)_
 - [[Startup Ideas You Can Now Build With AI]] _(video)_
 - [[State-Of-The-Art Prompting For AI Agents]] _(video)_
+- [[Stop Wasting AI Tokens]] _(video)_
+- [[Susan Kare- Designing Icons & Graphics For the Original Mac|Susan Kare: Designing Icons & Graphics For the Original Mac]] _(video)_
+- [[Tavus- The AI Human Platform|Tavus: The AI Human Platform]] _(video)_
+- [[The $1B Company Fixing AI’s Software Bottleneck]] _(video)_
 - [[The 10 Lines of Code Behind AI Image Gen]] _(video)_
 - [[The 10 Trillion Parameter AI Model With 300 IQ]] _(video)_
 - [[The 7 Most Powerful Moats For AI Startup]] _(video)_
 - [[The AI Agent Economy Is Here]] _(video)_
+- [[The AI Agents Helping Home Services Book More Jobs]] _(video)_
+- [[The AI Billing Stack for Healthcare]] _(video)_
+- [[The Age Of The 40-Year-Old Solo Founder Is Here]] _(video)_
+- [[The Best Consumer Startup Ideas Were Impossible Until Now]] _(video)_
+- [[The Case For Data Centers In Space]] _(video)_
+- [[The Data Layer for the Robot Economy]] _(video)_
+- [[The ERP for the AI Revolution is here]] _(video)_
+- [[The End of Manual Debugging]] _(video)_
 - [[The FDE Playbook for AI Startups with Bob McGrew]] _(video)_
 - [[The Finance Startup Bringing Agentic AI to Wall Street]] _(video)_
+- [[The First Dedicated YC GPU Cluster - With Together AI]] _(video)_
 - [[The Future of Software Creation with Replit CEO Amjad Masad]] _(video)_
 - [[The Lightcone 2025 Forecast]] _(video)_
+- [[The ML Technique Every Founder Should Know]] _(video)_
+- [[The Model-Agnostic AI Platform Betting That No Single Lab Will Win]] _(video)_
+- [[The New Full-Stack Designer]] _(video)_
+- [[The Powerful Alternative To Fine-Tuning]] _(video)_
+- [[The Q-A Layer for the AI Coding Era|The Q/A Layer for the AI Coding Era]] _(video)_
 - [[The Right (And Wrong) Way To Spend Money At Your Startup]] _(video)_
+- [[The Startup Powering Billions In Trades Every Day]] _(video)_
+- [[The State of Startups in 2026]] _(video)_
+- [[The Training Ground for AI Knowledge Workers]] _(video)_
 - [[The Truth About Building AI Startups Today -[Lightcone Podcast Ep. 1-]|The Truth About Building AI Startups Today \[Lightcone Podcast Ep. 1\]]] _(video)_
+- [[The Voice AI Platform Powering a Billion Calls a Year]] _(video)_
 - [[The World's First Commercial Mobile Carbon Capture Device]] _(video)_
+- [[The World’s Largest Electric Aircraft Just Flew]] _(video)_
+- [[This $1.5 Trillion Industry Still Runs on Paper and Fax Machines]] _(video)_
+- [[This AI Startup Is Taking Over Phone Sales]] _(video)_
+- [[This Is How You Should Actually Make Launch Videos]] _(video)_
+- [[This Startup Built AI That 80% of Callers Think Is Human]] _(video)_
+- [[This Startup Built the Infrastructure Powering Voice AI]] _(video)_
+- [[This Startup Catches Fraud at Scale]] _(video)_
+- [[This Startup Is Automating America's Biggest Hospitals]] _(video)_
+- [[This Startup Is Trying To Solve The AI Memory Problem]] _(video)_
 - [[Tokenmaxxing- How Top Builders Use AI To Do The Work Of 400 Engineers|Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers]] _(video)_
 - [[Unpopular Ideas That Became Billion-Dollar Businesses]] _(video)_
+- [[Veriff- The Global Identity Infrastructure|Veriff: The Global Identity Infrastructure]] _(video)_
 - [[Vertical AI Agents Could Be 10X Bigger Than SaaS]] _(video)_
 - [[Vibe Coding Is The Future]] _(video)_
+- [[Waymo Co-CEO Dmitri Dolgov- The Demo Is Only 1% Of The Work|Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work]] _(video)_
+- [[What Actually Makes A Startup Durable]] _(video)_
+- [[What Big Tech Missed And How Startups Can Still Win]] _(video)_
 - [[What Founders Have To Unlearn To Become Great CEOs]] _(video)_
+- [[What Happens When Everyone Can Build Software]] _(video)_
+- [[What If We Stopped Using GPUs-|What If We Stopped Using GPUs?]] _(video)_
+- [[What It Actually Takes to Deploy a Voice Agent to a Fortune 500]] _(video)_
 - [[What Surprised Us Most In 2025]] _(article)_
+- [[What Top AI Labs Are Really Doing With Observability]] _(video)_
 - [[Where Is The REAL Cerebral Valley- -[Lightcone Podcast Ep. 3-]|Where Is The REAL Cerebral Valley? \[Lightcone Podcast Ep. 3\]]] _(video)_
+- [[Why Ambitious Startup Ideas Are Actually Easier To Sell]] _(video)_
+- [[Why Inference Matters 12x More Than Training]] _(video)_
+- [[Why Physical AI Is the Next Platform Shift]] _(video)_
+- [[Why Robotics Still Isn't Solved - But Could Be Soon]] _(video)_
 - [[Why Startup Founders Should Launch Companies Sooner Than They Think]] _(video)_
+- [[Why The Harness Matters More Than The Model]] _(video)_
 - [[Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling]] _(video)_
 - [[Why This Is The Perfect Time To Start A Startup -[Lightcone Podcast LIVE-]|Why This Is The Perfect Time To Start A Startup \[Lightcone Podcast LIVE\]]] _(video)_
+- [[Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup]] _(video)_
 - [[Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities]] _(article)_
 - [[Why YC- We asked 50 founders why they applied to Y Combinator|Why YC? We asked 50 founders why they applied to Y Combinator]] _(video)_
 - [[Windsurf CEO- Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding|Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding]] _(video)_
+- [[World Models, JEPA And The Path To Sample-Efficient RL]] _(video)_
 - [[YC Partners Answer Your Questions - Office Hours|YC Partners Answer Your Questions \| Office Hours]] _(video)_
 - [[YC's essential startup advice]] _(article)_
+- [[Zepto- How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables|Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables]] _(video)_
+- [[Zynga Founder- Consumer Is Not Investible Right Now - Thats Why You Should Build It|Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It]] _(video)_

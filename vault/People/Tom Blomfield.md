@@ -8,7 +8,7 @@ tags:
 
 # Tom Blomfield
 
-YC Library entries: **6**
+YC Library entries: **7**
 
 ## Talks and Essays
 
@@ -16,5 +16,6 @@ YC Library entries: **6**
 - [[GPT-4.5 = Big Model Energy]] _(video)_
 - [[How To Get The Most Out Of Vibe Coding]] _(video)_
 - [[How To Price For B2B]] _(video)_
+- [[How to Build a Self-Improving Company with AI]] _(video)_
 - [[Key Startup Metrics]] _(video)_
 - [[The Sales Playbook for Founders]] _(video)_

@@ -8,7 +8,7 @@ tags:
 
 # The Social Radars
 
-YC Library entries: **19**
+YC Library entries: **20**
 
 ## Talks and Essays
 
@@ -22,6 +22,7 @@ YC Library entries: **19**
 - [[Edith Elliott, Co-Founder & CEO of Noora Health]] _(article)_
 - [[Emmett Shear, Co-Founder of Twitch]] _(article)_
 - [[Garry Tan, President and CEO of Y Combinator]] _(article)_
+- [[How Boom’s Biggest Crisis Became Its Biggest Opportunity]] _(video)_
 - [[Parker Conrad, Founder of Zenefits & Rippling]] _(article)_
 - [[Patrick & John Collison, Co-Founders of Stripe]] _(article)_
 - [[Paul Buchheit, Creator of Gmail]] _(article)_

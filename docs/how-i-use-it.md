@@ -49,7 +49,7 @@ None of this works without the structure laid out in [How it was built](how-it-w
 - Every note links to its **author and series**, so one good hit opens the door to its neighbors.
 - Every note carries the same **metadata**, so I can slice the library by person, by series, or by type without writing any code.
 
-A folder of 466 unconnected transcripts would do none of this. The same content, once it is structured, becomes something you can actually think with.
+A folder of 634 unconnected transcripts would do none of this. The same content, once it is structured, becomes something you can actually think with.
 
 ---
 

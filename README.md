@@ -10,10 +10,10 @@ This repo is the structure of that brain. It shows how it was built and what it 
 
 | | |
 |---|---|
-| Entries | **466** (366 videos, 100 articles) |
-| Authors and speakers | **110** |
-| Series and shows | **24** |
-| Notes in the graph | **604** |
+| Entries | **634** (530 videos, 104 articles) |
+| Authors and speakers | **115** |
+| Series and shows | **30** |
+| Notes in the graph | **783** |
 | Source | [Y Combinator Startup Library](https://www.ycombinator.com/library) |
 | Tool | [Obsidian](https://obsidian.md) (plain Markdown, no lock-in) |
 
@@ -40,10 +40,10 @@ yc-knowledge-base/
 │   └── anatomy-of-a-note.md   The schema behind every note.
 └── vault/                    The brain itself. Open this folder in Obsidian.
     ├── README.md              The home map of the vault.
-    ├── Videos/                366 talk and podcast notes.
-    ├── Articles/              100 essay and guide notes.
-    ├── People/                110 author pages, each listing their work.
-    ├── Series/                24 series pages (Lightcone, Dalton & Michael, etc).
+    ├── Videos/                530 talk and podcast notes.
+    ├── Articles/              104 essay and guide notes.
+    ├── People/                115 author pages, each listing their work.
+    ├── Series/                30 series pages (Lightcone, Dalton & Michael, etc).
     └── _maps/                 Generated index maps across the whole library.
 ```
 

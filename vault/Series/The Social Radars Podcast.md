@@ -8,7 +8,7 @@ tags:
 
 # The Social Radars Podcast
 
-Entries in this series: **19**
+Entries in this series: **20**
 
 - [[Adora Cheung, Co-founder of Homejoy & Instalab]] _(article)_
 - [[Bill Clerico, Co-Founder & CEO of WePay]] _(article)_
@@ -20,6 +20,7 @@ Entries in this series: **19**
 - [[Edith Elliott, Co-Founder & CEO of Noora Health]] _(article)_
 - [[Emmett Shear, Co-Founder of Twitch]] _(article)_
 - [[Garry Tan, President and CEO of Y Combinator]] _(article)_
+- [[How Boom’s Biggest Crisis Became Its Biggest Opportunity]] _(video)_
 - [[Parker Conrad, Founder of Zenefits & Rippling]] _(article)_
 - [[Patrick & John Collison, Co-Founders of Stripe]] _(article)_
 - [[Paul Buchheit, Creator of Gmail]] _(article)_

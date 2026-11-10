@@ -8,15 +8,17 @@ tags:
 
 # Garry Tan
 
-YC Library entries: **25**
+YC Library entries: **29**
 
 ## Talks and Essays
 
 - [[Anthropic’s Claude Computer Use Is A Game Changer]] _(video)_
 - [[Cursor CEO- Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters|Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters]] _(video)_
 - [[Day in the Life of Y Combinator President & CEO Garry Tan during the first week of the batch]] _(video)_
+- [[Garry Tan- Own Your Intelligence|Garry Tan: Own Your Intelligence]] _(video)_
 - [[How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years]] _(video)_
 - [[How Scaling Laws Will Determine AI's Future]] _(video)_
+- [[How The Best Companies Defend Against Mediocrity And Rot]] _(video)_
 - [[How To Build The AGI Future- Bob McGrew|How To Build The AGI Future: Bob McGrew]] _(video)_
 - [[How To Build The Future- Max Hodak|How To Build The Future: Max Hodak]] _(video)_
 - [[How To Build The Future- Parker Conrad|How To Build The Future: Parker Conrad]] _(video)_
@@ -27,9 +29,11 @@ YC Library entries: **25**
 - [[How to Build the Future- Demis Hassabis|How to Build the Future: Demis Hassabis]] _(video)_
 - [[How to Survive the Crypto Boom & Bust Cycle]] _(video)_
 - [[Inside Garry Tan's AI Coding Setup]] _(video)_
+- [[Sam Altman- -Never a Better Time to Do a Startup-|Sam Altman: "Never a Better Time to Do a Startup"]] _(video)_
 - [[Standing Up For Startups - YC Goes To D.C|Standing Up For Startups - YC Goes To D.C.]] _(video)_
 - [[The 10-Year “Overnight” Success Story of Casetext]] _(video)_
 - [[The Future Of Design With Figma's Dylan Field]] _(video)_
+- [[The Most AI-Pilled CEO We Know]] _(video)_
 - [[The New Way To Build A Startup]] _(video)_
 - [[The Next Breakthrough In AI Agents Is Here]] _(video)_
 - [[The Secrets of Y Combinator’s Early Success (with YC Co-Founder Jessica Livingston)]] _(video)_

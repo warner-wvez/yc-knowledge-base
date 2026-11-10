@@ -8,7 +8,7 @@ tags:
 
 # How To Build The Future
 
-Entries in this series: **17**
+Entries in this series: **18**
 
 - [[Cursor CEO- Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters|Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters]] _(video)_
 - [[Elon Musk on how to build the future]] _(video)_
@@ -16,6 +16,7 @@ Entries in this series: **17**
 - [[How To Build The Future- Aravind Srinivas|How To Build The Future: Aravind Srinivas]] _(video)_
 - [[How To Build The Future- Max Hodak|How To Build The Future: Max Hodak]] _(video)_
 - [[How To Build The Future- Parker Conrad|How To Build The Future: Parker Conrad]] _(video)_
+- [[How To Build The Future- Paul Graham & Amjad Masad|How To Build The Future: Paul Graham & Amjad Masad]] _(video)_
 - [[How To Build The Future- Sam Altman|How To Build The Future: Sam Altman]] _(video)_
 - [[How To Build The Future- Tony Xu|How To Build The Future: Tony Xu]] _(video)_
 - [[How Zepto Became India’s Fastest Growing Startup]] _(video)_

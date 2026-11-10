@@ -10,10 +10,10 @@ What follows is the process from start to finish. None of it requires a server, 
 
 The library is made of two kinds of things: videos, which are the talks, podcasts, and course sessions, and articles, which are the essays and guides. Every single one of them becomes exactly one Markdown file. No file holds two entries, and no entry is ever split across two files. One entry, one note. That single rule is the thing that makes everything downstream possible.
 
-There are 466 of these notes:
+There are 634 of these notes:
 
-- 366 video notes
-- 100 article notes
+- 530 video notes
+- 104 article notes
 
 ---
 

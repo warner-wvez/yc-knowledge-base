@@ -8,7 +8,7 @@ tags:
 
 # Design Review
 
-Entries in this series: **16**
+Entries in this series: **21**
 
 - [[Brand Design Tips From Linear Founder Karri Saarinen]] _(video)_
 - [[Building a better mobile app]] _(video)_
@@ -21,8 +21,13 @@ Entries in this series: **16**
 - [[Does Your Startup Website Pass The First Impression Test-|Does Your Startup Website Pass The First Impression Test?]] _(video)_
 - [[Five DevTool Startups Get Their Websites Reviewed]] _(video)_
 - [[How Stripe Built Their New Website]] _(video)_
+- [[How To Design In The Agent Era]] _(video)_
+- [[How To Stand Out In A World Of AI Designs]] _(video)_
+- [[How We Redesigned Our Website]] _(video)_
 - [[How to convert more visitors into customers]] _(video)_
 - [[Stripe Head of Design Katie Dill Reviews Startup Websites]] _(video)_
+- [[The New Full-Stack Designer]] _(video)_
 - [[Why Design Matters- Lessons from Stripe, Lyft and Airbnb|Why Design Matters: Lessons from Stripe, Lyft and Airbnb]] _(video)_
 - [[Why Every Founder Should Care About Design]] _(video)_
 - [[Why Your Startup Website Isn't Converting]] _(video)_
+- [[YC's Head of Design Shows You How To Design With AI]] _(video)_

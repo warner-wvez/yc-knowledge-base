@@ -8,8 +8,9 @@ tags:
 
 # Pete Koomen
 
-YC Library entries: **1**
+YC Library entries: **2**
 
 ## Talks and Essays
 
 - [[Enterprise Sales for Founders]] _(video)_
+- [[Inside YC's AI Playbook]] _(video)_
