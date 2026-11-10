@@ -11,3 +11,9 @@ vault/.obsidian/bookmarks.json
 # Editor noise
 *.swp
 *~
+
+# Local outputs that must never be published
+*.zip
+.firecrawl/
+__pycache__/
+.env

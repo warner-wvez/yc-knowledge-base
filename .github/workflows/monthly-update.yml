@@ -1,0 +1,46 @@
+name: Monthly library update
+
+# Adds every new YC Startup Library entry as a public note (no transcripts),
+# then commits to main. Runs on the 1st of each month, or by hand from the Actions tab.
+on:
+  schedule:
+    - cron: "0 15 1 * *"   # 15:00 UTC on the 1st
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monthly-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Add new library entries
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: python scripts/update_library.py --repo . --commit-msg-file "$RUNNER_TEMP/commit-msg.txt"
+
+      - name: Check nothing private is in the repo
+        run: python scripts/check_public.py --repo .
+
+      - name: Commit and push
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No new entries this month."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vault README.md docs
+          git commit -F "$RUNNER_TEMP/commit-msg.txt"
+          git push
