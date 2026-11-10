@@ -15,7 +15,7 @@ Open this folder in [Obsidian](https://obsidian.md) ("Open folder as vault") to 
 ## At a glance
 
 - **634 entries** total
-- **530 videos** (525 with transcripts in the original library)
+- **530 videos** (530 with transcripts in the original library)
 - **104 articles**
 - **115 authors and speakers**
 - **30 series and shows**

@@ -6,7 +6,7 @@ url: "https://www.ycombinator.com/library/4x-on-starting-a-company-from-a-hackat
 author: Tanay Tandon
 youtube_id: fEcx3hx-398
 youtube_url: "https://www.youtube.com/watch?v=fEcx3hx-398"
-has_transcript: false
+has_transcript: true
 tags:
   - yc-library
   - video

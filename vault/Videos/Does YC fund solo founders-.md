@@ -10,7 +10,7 @@ youtube_url: "https://www.youtube.com/watch?v=ygr3qcERyRM"
 upload_date: 2019-06-20
 length: "01:18"
 views: 35875
-has_transcript: false
+has_transcript: true
 tags:
   - yc-library
   - video

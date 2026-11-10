@@ -9,7 +9,7 @@ youtube_url: "https://www.youtube.com/watch?v=qVZDx86Ft0o"
 upload_date: 2008-10-08
 length: "01:19"
 views: 28861
-has_transcript: false
+has_transcript: true
 tags:
   - yc-library
   - video

@@ -9,7 +9,7 @@ youtube_url: "https://www.youtube.com/watch?v=gQ_rZc0YUNw"
 upload_date: 2021-02-08
 length: "02:29"
 views: 26869
-has_transcript: false
+has_transcript: true
 tags:
   - yc-library
   - video

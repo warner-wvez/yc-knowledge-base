@@ -119,7 +119,7 @@ tags:
 - [[Diane Greene's advice for founders]] 📝
 - [[Different startup stages and what they mean for you]] 📝
 - [[Do technical founders need a business co-founder-|Do technical founders need a business co-founder?]] 📝
-- [[Does YC fund solo founders-|Does YC fund solo founders?]]
+- [[Does YC fund solo founders-|Does YC fund solo founders?]] 📝
 - [[Does Your Startup Website Pass The First Impression Test-|Does Your Startup Website Pass The First Impression Test?]] 📝
 - [[Does your tech startup really need a technical co-founder- Yes|Does your tech startup really need a technical co-founder? Yes.]] 📝
 - [[Dot Plots- How to Actually See What Your Users Are Doing|Dot Plots: How to Actually See What Your Users Are Doing]] 📝
@@ -231,7 +231,7 @@ tags:
 - [[How To Build The Future- Sam Altman|How To Build The Future: Sam Altman]] 📝
 - [[How To Build The Future- Tony Xu|How To Build The Future: Tony Xu]] 📝
 - [[How to calculate burn rate, runway, and growth rate]] 📝
-- [[How to choose a metric and set your KPI]]
+- [[How to choose a metric and set your KPI]] 📝
 - [[How to choose a startup to join]] 📝
 - [[How to cold email investors]] 📝
 - [[How To Convert Customers With Cold Emails]] 📝
@@ -351,7 +351,7 @@ tags:
 - [[Now Anyone Can Code- How AI Agents Can Build Your Whole App|Now Anyone Can Code: How AI Agents Can Build Your Whole App]] 📝
 - [[Numeral- Building the Global Tax Platform|Numeral: Building the Global Tax Platform]] 📝
 - [[On raising Seed and Series A as a woman founder]] 📝
-- [[On starting a company from a hackathon project]]
+- [[On starting a company from a hackathon project]] 📝
 - [[On starting and scaling Bloom Institute of Technology]] 📝
 - [[On starting and scaling construction startup PlanGrid]] 📝
 - [[On starting and scaling direct mail automation startup Lob]] 📝
@@ -374,7 +374,7 @@ tags:
 - [[Paul Graham On Startups, Ambition, and Great Founders]] 📝
 - [[Paul Graham, Live from Stockholm]] 📝
 - [[Peter Steinberger- -Fun Is Velocity-|Peter Steinberger: "Fun Is Velocity"]] 📝
-- [[Product Advice for Hardware Founders]]
+- [[Product Advice for Hardware Founders]] 📝
 - [[Product and design process for remote teams]] 📝
 - [[Quantum computing with Chad Rigetti]] 📝
 - [[Rebuilding Customer Support for the AI Era]] 📝
@@ -506,7 +506,7 @@ tags:
 - [[Where Is The REAL Cerebral Valley- -[Lightcone Podcast Ep. 3-]|Where Is The REAL Cerebral Valley? \[Lightcone Podcast Ep. 3\]]] 📝
 - [[Why Ambitious Startup Ideas Are Actually Easier To Sell]] 📝
 - [[Why Design Matters- Lessons from Stripe, Lyft and Airbnb|Why Design Matters: Lessons from Stripe, Lyft and Airbnb]] 📝
-- [[Why do startups fail-|Why do startups fail?]]
+- [[Why do startups fail-|Why do startups fail?]] 📝
 - [[Why Every Founder Should Care About Design]] 📝
 - [[Why Founders Shouldn't Think Like Investors]] 📝
 - [[Why fundraising is different in Silicon Valley]] 📝
