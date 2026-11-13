@@ -4,7 +4,7 @@ Standard library only, so it runs on a bare GitHub runner. Firecrawl is called
 through its REST API with FIRECRAWL_API_KEY (or the Firecrawl CLI's stored key
 when run locally).
 """
-import json, os, re, time, unicodedata, urllib.request
+import html, json, os, re, time, unicodedata, urllib.request
 from collections import defaultdict
 from pathlib import Path
 
@@ -47,6 +47,31 @@ def scrape(url, max_age=None):
     body = {'url': url, 'formats': ['markdown']}
     if max_age is not None: body['maxAge'] = max_age
     return firecrawl('scrape', body)['data']
+
+# When YouTube's transcript panel fails to load, the scrape returns the page's list of suggested
+# videos under a "Transcript" heading. Two private notes got that junk instead of a transcript.
+PAGE_JUNK = re.compile(r'i\.ytimg\.com/|hqdefault\.jpg|NaN / NaN|\]\(https://www\.youtube\.com/watch\?v=')
+
+def looks_like_transcript(t):
+    """True for spoken text; False for empty text or a scraped list of thumbnails and video links."""
+    if not t or len(t.strip()) < 200 or PAGE_JUNK.search(t): return False
+    lines = [l for l in t.splitlines() if l.strip()]
+    return sum(l.lstrip().startswith(('[', '![', '###')) for l in lines) <= len(lines) * 0.2
+
+def library_page_transcript(url):
+    """The transcript YC embeds in the library page's own data. A plain GET, no Firecrawl credit."""
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (yc-knowledge-base)'})
+    try:
+        raw = urllib.request.urlopen(req, timeout=60).read().decode('utf-8', 'replace')
+    except Exception:
+        return None
+    m = re.search(r'&quot;transcript&quot;:&quot;(.*?)&quot;,&quot;', raw, re.S)
+    if not m: return None
+    try:
+        t = json.loads(html.unescape('"' + m.group(1) + '"')).strip()
+    except ValueError:
+        return None
+    return t if looks_like_transcript(t) else None
 
 # ---------------------------------------------------------------- discovery
 
@@ -135,7 +160,7 @@ def parse_youtube(data):
     return dict(upload_date=g(r'\*\*Uploaded at\*\*:\s*([0-9-]+)'), length=g(r'\*\*Length\*\*:\s*([0-9:]+)'),
                 views=int(views.replace(',', '')) if views else None,
                 yt_description=desc.group(1).strip() if desc else None,
-                transcript=tx.group(1).strip() if tx else None)
+                transcript=tx.group(1).strip() if tx and looks_like_transcript(tx.group(1)) else None)
 
 def is_placeholder(rec):
     return (rec['title'] or '').strip().lower() in SKIP_TITLES

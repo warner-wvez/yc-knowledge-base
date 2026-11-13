@@ -35,6 +35,8 @@ for i, url in new.items():
     rec = yckb.parse_library_page(url, yckb.scrape(url))
     if yckb.is_placeholder(rec) or not rec['title']:
         skipped.append(url); continue
+    if rec['youtube_id'] and not rec['transcript']:  # only sets has_transcript; the text never enters this repo
+        rec['transcript'] = yckb.library_page_transcript(url)
     info = yckb.parse_youtube(yckb.scrape(f'https://www.youtube.com/watch?v={rec["youtube_id"]}', max_age=0)) if rec['youtube_id'] else {}
     text, kind = yckb.public_note(rec, info)
     name = yckb.free_name(rec['title'], taken)

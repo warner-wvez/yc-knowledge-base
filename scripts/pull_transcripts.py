@@ -29,8 +29,11 @@ if private == public or repo in private.parents:
 for d in ('Videos', 'Articles', 'People', 'Series', '_maps'): (private / d).mkdir(parents=True, exist_ok=True)
 
 def has_full_text(p):
+    """A transcript that is really a scraped list of YouTube thumbnails counts as missing, so it gets re-pulled."""
     t = p.read_text(errors='ignore')
-    return '\n## Transcript' in t or '\n## Content' in t
+    if '\n## Transcript' in t:
+        return yckb.looks_like_transcript(t.split('\n## Transcript', 1)[1])
+    return '\n## Content' in t
 
 # private notes by url; prefer a file without an iCloud " 2" suffix
 priv = {}
@@ -45,6 +48,8 @@ for note in yckb.vault_notes(public):
     if have and has_full_text(have) and not args.refresh: continue
     rec = yckb.parse_library_page(url, yckb.scrape(url))
     info = {}
+    if rec['youtube_id'] and not rec['transcript']:  # free try first: the transcript YC embeds in the page data
+        rec['transcript'] = yckb.library_page_transcript(url)
     if rec['youtube_id'] and not rec['transcript']:
         info = yckb.parse_youtube(yckb.scrape(f'https://www.youtube.com/watch?v={rec["youtube_id"]}', max_age=0))
     section = yckb.full_text_section(rec, info)
